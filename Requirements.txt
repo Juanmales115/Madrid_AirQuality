@@ -1,0 +1,7 @@
+# Requirements
+
+numpy Version: 2.3.3
+matplotlib Version: 3.10.6
+pandas Version: 2.3.3
+scipy Version: 1.16.2
+seaborn Version: 0.13.2
